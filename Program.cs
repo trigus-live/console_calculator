@@ -1,6 +1,6 @@
-﻿using Calculator;
-using Calculator.Command;
+﻿using Calculator.Command;
 using Calculator.Main;
+using Calculator.Util;
 
 internal class Program
 {
